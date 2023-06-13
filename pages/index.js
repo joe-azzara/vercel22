@@ -11,7 +11,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://kc2ubg.com">My new Vercel Blog</a>
+          Welcome to <a href="https://kc2ubg.com">My New Blog</a>
         </h1>
 
         <p className={styles.description}>
