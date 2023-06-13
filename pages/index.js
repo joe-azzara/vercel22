@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>My new Vercel blog</title>
+        <title>My new blog</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
