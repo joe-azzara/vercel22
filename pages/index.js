@@ -11,11 +11,12 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://kc2ubg.com">My New New Blog</a>
+          Welcome to <a href="https://kc2ubg.com">My New Blog</a>
         </h1>
 
         <p className={styles.description}>
-          Hi my name is Joe Azzara and I am a software engineer from NYC <code>pages/joe.js</code>
+          Hi my name is Joe Azzara and I am a software engineer from NYC
+          you can email me at <a href="mailto: joe.azzara@gmail.com">Send Email</a> <code>pages/joe.js</code>
         </p>
 
         
