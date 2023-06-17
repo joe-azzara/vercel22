@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Hi my name is Joe Azzara and I am a software engineer <code>pages/joe.js</code>
+          Hi my name is Joe Azzara and I am a software engineer from NYC <code>pages/joe.js</code>
         </p>
 
         
