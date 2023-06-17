@@ -18,7 +18,7 @@ export default function Home() {
           Hi my name is Joe Azzara and I am a software engineer from NYC
         </p>
 
-        <body>you send me message at <a href="mailto: joe.azzara@gmail.com"> Email</a> <code>pages/joe.js</code></body>
+        <body>you send me message at <a href="mailto:joe.azzara@gmail.com"> Email</a> <code>pages/joe.js</code></body>
 
         
       
