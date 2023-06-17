@@ -16,8 +16,9 @@ export default function Home() {
 
         <p className={styles.description}>
           Hi my name is Joe Azzara and I am a software engineer from NYC
-          you send me message at <a href="mailto: joe.azzara@gmail.com"> Email</a> <code>pages/joe.js</code>
         </p>
+
+        <body>you send me message at <a href="mailto: joe.azzara@gmail.com"> Email</a> <code>pages/joe.js</code></body>
 
         
       
