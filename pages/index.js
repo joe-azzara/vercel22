@@ -1,7 +1,5 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.css';
-
-export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
@@ -15,7 +13,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Hi my name is Joe Azzara and I am a software engineer from NYC
+          Hey  my name is Joe Azzara and I am a software engineer from NYC
         </p>
 
         <body>you send me message at <a href="mailto:joe.azzara@gmail.com"> Email</a> <code>pages/joe.js</code></body>
@@ -24,8 +22,6 @@ export default function Home() {
       
       </main>
 
-      <footer>
-        <a
           href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
           target="_blank"
           rel="noopener noreferrer"
@@ -43,7 +39,7 @@ export default function Home() {
           flex-direction: column;
           justify-content: center;
           align-items: center;
-        }
+       }
         footer {
           width: 100%;
           height: 100px;
@@ -62,7 +58,7 @@ export default function Home() {
           text-decoration: none;
           color: inherit;
         }
-        code {
+        code 
           background: #fafafa;
           border-radius: 5px;
           padding: 0.75rem;
